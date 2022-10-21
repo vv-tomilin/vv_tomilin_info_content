@@ -117,4 +117,8 @@
   .portfolio__title {
     margin-top: 10px;
   }
+
+  .portfolio__popup-images > img {
+    height: 16vh;
+  }
 }
