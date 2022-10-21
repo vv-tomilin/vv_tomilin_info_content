@@ -1,0 +1,27 @@
+.lightbox-container {
+  display: flex !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  margin-right: 20px !important;
+}
+
+.lightbox-img-thumbnail {
+  width: auto !important;
+  height: 150px !important;
+}
+
+.lightbox-img-thumbnail:last-child {
+  margin-left: 10px;
+}
+
+.lightbox-backdrop {
+  width: 100vw !important;
+  height: 100vh !important;
+
+  position: absolute !important;
+  top: 0;
+}
+
+/* hide-controls */

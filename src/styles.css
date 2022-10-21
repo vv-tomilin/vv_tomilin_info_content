@@ -1,0 +1,6 @@
+@import url('./styles/normalize.css');
+@import url('./styles/global.css');
+@import url('./styles/header');
+@import url('./styles/main.css');
+@import url('./styles/portfolio.css');
+@import url('./styles/lite-box.css');

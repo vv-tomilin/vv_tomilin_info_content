@@ -1,0 +1,51 @@
+.main {
+  /* margin-top: 10px; */
+  margin-bottom: 70px;
+}
+
+.main__info-label {
+  width: 220px;
+}
+
+.main__info-item {
+  list-style: none;
+
+  margin-top: 45px;
+
+  display: flex;
+}
+
+.main__info-content {
+  width: 74%;
+
+  line-height: 31px;
+}
+
+.main__my-name {
+  font-size: 45px;
+}
+
+@media (max-width: 768px) {
+  .main__info-item {
+    display: block;
+
+    margin-top: 15px;
+
+    background-color: rgb(67, 67, 67);
+
+    padding: 15px;
+
+    border-radius: 10px;
+  }
+
+  .main__info-label {
+    margin-bottom: 10px;
+  }
+
+  .main__info-content {
+    width: 100%;
+  }
+  .main__my-name {
+    text-align: center;
+  }
+}

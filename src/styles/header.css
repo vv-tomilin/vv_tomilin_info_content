@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: center;
+
+  padding: 40px 0;
+
+  background-color: #343239;
+
+  width: 100%;
+
+  margin-bottom: 50px;
+}
+
+.header-link:last-child {
+  color: #f03d33;
+}
