@@ -1,6 +1,25 @@
 {
   "projects": [
     {
+      "name": "Easy notes",
+      "links": {
+        "workProject": "https://notes-test-chalange.vercel.app/",
+        "gitHub": "https://github.com/vv-tomilin/sushi_store"
+      },
+      "stackInfo": [
+        "ReactJS + хуки",
+        "React Context - для хранения общего состояния приложения",
+        "Ant Design - для быстрого прототипирования и стилизации",
+        "React SimpleMDE Editor - редактор markdown разметки",
+        "React markdown - для отображения отформатированного markdown текста",
+        "Dexie.js - для работы с базой данных IndexedDB"
+      ],
+      "images": {
+        "desk": "https://im.wampi.ru/2022/11/01/notes-desk.jpg",
+        "mob": "https://ic.wampi.ru/2022/11/01/notes-mob.jpg"
+      }
+    },
+    {
       "name": "React Sushi",
       "links": {
         "workProject": "https://react-sushi.herokuapp.com/",
