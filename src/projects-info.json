@@ -4,7 +4,7 @@
       "name": "Easy notes",
       "links": {
         "workProject": "https://notes-test-chalange.vercel.app/",
-        "gitHub": "https://github.com/vv-tomilin/sushi_store"
+        "gitHub": "https://github.com/vv-tomilin/notes_test_chalange"
       },
       "stackInfo": [
         "ReactJS + хуки",
