@@ -10,7 +10,7 @@ function Header() {
         </Link>
       </div> */}
       <div className="header-link bold ml-40">
-        <Link className="header-link bold" to="/portfolio">
+        <Link className="header-link bold" to="/">
           Портфолио
         </Link>
       </div>
