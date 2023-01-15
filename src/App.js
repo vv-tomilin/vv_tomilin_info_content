@@ -10,11 +10,11 @@ import Header from './components/Header';
 function App() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <div className="global-container">
         <Routes>
-          <Route path="/" element={<Resume />} />
-          <Route path="/portfolio" element={<Portfolio />} />
+          {/* <Route path="/" element={<Resume />} /> */}
+          <Route path="/" element={<Portfolio />} />
         </Routes>
       </div>
     </>
